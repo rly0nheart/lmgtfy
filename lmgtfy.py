@@ -3,7 +3,7 @@
 import time
 import praw
 from urllib.parse import quote_plus
-from assets.colors import red,white,yellow,reset
+from lib.colors import red,white,yellow,reset
 from config.credentials import client_secret, client_id, username, password, user_agent
 
 
